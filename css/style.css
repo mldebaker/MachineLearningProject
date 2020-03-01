@@ -190,8 +190,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #aboutwrap {
-	background: url(../img/tensorflow2.png) no-repeat center top;
-	margin-top: -30px;
+	background: url(../img/classificationReport.png) no-repeat center top;
+	margin-top: 0px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
@@ -209,7 +209,6 @@ h1, h2, h3, h4, h5, h6 {
     -o-background-size: cover;
     background-size: cover;
 }
-
 
 /* Gallery */
 .gallery {
